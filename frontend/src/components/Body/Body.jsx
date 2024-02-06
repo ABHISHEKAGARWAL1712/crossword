@@ -61,7 +61,7 @@ const Body = () => {
 					onChange={handleChange}
 				></input>
 				<button className='body-btn' onClick={handleClick}>
-					Add Word
+					Add Words
 				</button>
 				<button className='body-btn-create' onClick={handleCreateCrossword}>
 					Create Crossword
